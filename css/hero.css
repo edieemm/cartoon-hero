@@ -1,0 +1,90 @@
+html, body{
+  font-family: Ariel, sans-serif;
+  margin: 0;
+}
+
+header{
+  background-color: #000099;
+  padding: 40px;
+  text-align: center;
+}
+
+h1{
+  font-size: 90px;
+  color: white;
+}
+
+header img{
+  border-radius: 2800px;
+  width: 400px;
+  border: 15px solid #CC0000
+}
+
+.content{
+  max-width: 600px;
+  margin:0 auto;
+  padding: 0 20px;
+
+}
+
+img.big-image{
+  max-width: 100%;
+}
+
+p.caption{
+  font-size: 16px;
+  font-color: lightgrey;
+  font-style: italic;
+}
+
+ul{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+a{
+  color: red;
+  text-decoration: none;
+}
+
+footer{
+  margin-top: 20px;
+  padding: 40px 20px;
+  background-color: #E6E6E6
+}
+
+footer ul{
+  text-align: center;
+}
+
+footer ul li{
+  display: inline-block;
+  margin: 0 5px;
+}
+/*<div class="content">
+  <h2>About</h2>
+  <p>Numbuh 5 is the intelligent, laid-back, cool, calm, responsible,
+    book smart and streetwise agent of Sector V, and the only one with
+    true common sense.</p>
+    <h2>Characteristics</h2>
+    <ol>
+      <li>intelligent</li>
+      <li>Laid back</li>
+      <li>cool</li>
+      <li>calm</li>
+    </ol>
+    <img class="big-image" src="img/big-image.jpg" alt="">
+    <p class="caption">Numbuh 5 in action</p>
+    <h2>Frieinds</h2>
+    <ul>
+      <li><a href="https://knd.fandom.com/wiki/Numbuh_1" target="_blank"
+        title="Visit Numbuh 1's page"> Numbah 1 </a></li>
+      <li><a href="https://knd.fandom.com/wiki/Numbuh_2" target="_blank"
+        title="Visit Numbuh 2's page"> Numbah 2 </a></li>
+      <li><a href="https://knd.fandom.com/wiki/Numbuh_3" target="_blank"
+        title="Visit Numbuh 3's page"> Numbah 3 </a></li>
+      <li><a href="https://knd.fandom.com/wiki/Numbuh_4" target="_blank"
+        title="Visit Numbuh 4's page"> Numbah 4 </a></li>
+    </ul>
+</div>
